@@ -21,4 +21,5 @@ end
 
 def assign_rooms (speakers)
   speakers.each_with_index do |name, room| #{speakers[room+1]!"
+end 
 end
